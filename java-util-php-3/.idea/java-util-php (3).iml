@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/java-util-php/src/Java/Lang" isTestSource="false" packagePrefix="Java\Lang\" />
+      <sourceFolder url="file://$MODULE_DIR$/java-util-php/src/Java/Util" isTestSource="false" packagePrefix="Java\Util\" />
+      <sourceFolder url="file://$MODULE_DIR$/java-util-php/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/java-util-php/tests/Java/Util" isTestSource="true" packagePrefix="Tests\Java\Util\" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
